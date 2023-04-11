@@ -9,4 +9,4 @@ npm install 或者 cnpm install
 npm run serve
 ```
 
-##  :tw-1f60a: 5、作者：･ᴗ･
+##  :tw-1f60a: 作者：･ᴗ･
